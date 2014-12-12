@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/waselrosa/rails-practice-add-rspec.svg?branch=master)](https://travis-ci.org/waselrosa/rails-practice-add-rspec)
+
 # Setup
 
 * Clone this repo into workspace
